@@ -8,7 +8,7 @@ int main() {
     while(a<=b)
     {
         a*=3;
-        a*=
+        a*=2;
     }
     
  
