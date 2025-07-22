@@ -12,4 +12,5 @@ This repository contains my solutions to Codeforces problems. Each solution incl
 | 282A | Bit plus plus | C++ | Easy | Implementation | [Link](https://codeforces.com/problemset/problem/282/A) | [282A_Bit_plus_plus.cpp](282A_Bit_plus_plus.cpp) |
 | 339A | Helpful Maths | C++ | Easy | Greedy, Implementation, Strings, Sorting | [Link](https://codeforces.com/problemset/problem/339/A) | [339A_Helpful_Maths.cpp](339A_Helpful_Maths.cpp) |
 | 50A | Domino piling | C++ | Easy | Math, Greedy | [Link](https://codeforces.com/problemset/problem/50/A) | [50A_Domino_piling.cpp](50A_Domino_piling.cpp) |
+| 617A | Elephant | C++ | Easy | Math | [Link](https://codeforces.com/problemset/problem/617/A) | [617A_Elephant.cpp](617A_Elephant.cpp) |
 | 791A | Bear and Big Brother | Unknown | Unknown | None | [Link](https://codeforces.com/problemset/problem/791/A) | [791A_Bear_and_Big_Brother.cpp](791A_Bear_and_Big_Brother.cpp) |
